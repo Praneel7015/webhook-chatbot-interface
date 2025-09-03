@@ -110,14 +110,6 @@ The interface expects your webhook to:
 2. Receive: `{ "text": "user input" }`
 3. Respond: `{ "reply": "bot response" }`
 
-## Browser Support
-
-- Chrome/Chromium - Supported
-- Firefox - Supported  
-- Safari - Supported
-- Edge - Supported
-- Internet Explorer - Limited support
-
 ## Contributing
 
 Contributions are welcome! Here's how you can help improve this project:
